@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 
 const allowedOrigins = [
-  "https://buddy-ai-frontend.vercel.app",
+  "https://enterprise-iq-frontend.vercel.app",
   "http://localhost:5173",
   "http://localhost:5174",
 ];
